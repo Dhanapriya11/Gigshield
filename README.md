@@ -1,4 +1,4 @@
-# 🛡 GigShield — Full Stack App Setup Guide
+# 🛡 GigShield —  Setup Guide
 
 ## Project Structure
 ```
